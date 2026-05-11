@@ -1,0 +1,21 @@
+# Git ignore file
+*.pyc
+__pycache__/
+.DS_Store
+.env
+*.xlsx
+!mediciones.xlsx
+venv/
+.venv/
+env/
+.streamlit/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.ipynb_checkpoints/
